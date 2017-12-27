@@ -1,0 +1,22 @@
+<xml>
+	<dir>
+		<title>Popular Shows</title>
+		<tmdb>tv/popular</tmdb>
+		<summary>Popular TV Shows</summary>
+	</dir>
+	<dir>
+		<title>Top Rated Shows</title>
+		<tmdb>tv/top_rated</tmdb>
+		<summary>Top Rated Tv Shows</summary>
+	</dir>
+	<dir>
+		<title>Airing Today</title>
+		<tmdb>tv/today</tmdb>
+		<summary>Tv Shows Airing Today</summary>
+	</dir>
+	<dir>
+		<title>Search Shows</title>
+		<tmdb>search</tmdb>
+		<summary>Search for TV Shows on TMDB</summary>
+	</dir>
+</xml>

@@ -1,0 +1,62 @@
+<xml>
+  <dir>
+    <title>Actors</title>
+    <link>http://wolfsbuild.mypi.co/woolykodi/sharedlists/actors.xml</link>
+  </dir>
+
+<dir>
+    <title>Actresses</title>
+    <link>http://wolfsbuild.mypi.co/woolykodi/sharedlists/actress.xml</link>
+  </dir>
+
+<dir>
+    <title>Chicks</title>
+    <link>http://wolfsbuild.mypi.co/woolykodi/sharedlists/chicks.xml</link>
+  </dir>
+
+<dir>
+    <title>Collections</title>
+    <link>http://wolfsbuild.mypi.co/woolykodi/sharedlists/collections.xml</link>
+  </dir>
+
+<dir>
+    <title>Concerts</title>
+    <link>http://wolfsbuild.mypi.co/woolykodi/sharedlists/concerts.xml</link>
+  </dir>
+
+<dir>
+    <title>Kids</title>
+    <link>http://wolfsbuild.mypi.co/woolykodi/sharedlists/kids.xml</link>
+  </dir>
+
+<dir>
+    <title>Kids Boxsets</title>
+    <link>http://wolfsbuild.mypi.co/woolykodi/sharedlists/kids_boxset.xml</link>
+  </dir>
+
+<dir>
+    <title>Movie Genres</title>
+    <link>http://wolfsbuild.mypi.co/woolykodi/sharedlists/genre_movies.xml</link>
+  </dir>
+  
+<dir>
+    <title>Movie Years</title>
+    <link>http://wolfsbuild.mypi.co/woolykodi/sharedlists/movie-years.xml</link>
+  </dir>
+
+<dir>
+    <title>Networks</title>
+    <link>http://wolfsbuild.mypi.co/woolykodi/sharedlists/networks.xml</link>
+  </dir>
+
+<dir>
+    <title>Production Companies</title>
+    <link>http://wolfsbuild.mypi.co/woolykodi/sharedlists/production.xml</link>
+  </dir>
+
+<dir>
+    <title>Tv Genres</title>
+    <link>http://wolfsbuild.mypi.co/woolykodi/sharedlists/genres_tv.xml</link>
+  </dir>
+
+</xml>

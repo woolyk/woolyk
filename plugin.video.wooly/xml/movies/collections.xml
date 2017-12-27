@@ -1,0 +1,41 @@
+<dir>
+	<title>Aliens</title>
+	<tmdb>lists/43286</tmdb>
+	<thumbnail></thumbnail>
+	<summary>Alien movies</summary>
+</dir>
+
+<dir>
+	<title>DC Movies</title>
+	<tmdb>list/32942</tmdb>
+	<thumbnail></thumbnail>
+	<summary>All DC Movies</summary>
+</dir>
+
+<dir>
+	<title>James Bond</title>
+	<tmdb>collection/645</tmdb>
+	<thumbnail></thumbnail>
+	<summary>James Bond 007 Movies 1962-2015</summary>
+</dir>
+
+<dir>
+	<title>Star Wars</title>
+	<tmdb>collection/10</tmdb>
+	<thumbnail></thumbnail>
+	<summary>Star Wars Movie Collection</summary>
+</dir>
+
+<dir>
+	<title>Comedy</title>
+	<tmdb>list/43260</tmdb>
+	<thumbnail></thumbnail>
+	<summary>Movies to Lighten the mood</summary>
+</dir>
+
+<dir>
+	<title>Horror</title>
+	<tmdb>list/43285</tmdb>
+	<thumbnail></thumbnail>
+	<summary>Movies to make you Scream!</summary>
+</dir>
