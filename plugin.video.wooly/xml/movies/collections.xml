@@ -34,6 +34,13 @@
 </dir>
 
 <dir>
+	<title>Fantasy</title>
+	<tmdb>list/43305</tmdb>
+	<thumbnail></thumbnail>
+	<summary>Fantasy Movies</summary>
+</dir>
+
+<dir>
 	<title>Horror</title>
 	<tmdb>list/43285</tmdb>
 	<thumbnail></thumbnail>

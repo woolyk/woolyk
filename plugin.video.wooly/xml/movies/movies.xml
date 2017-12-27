@@ -1,13 +1,13 @@
 <dir>
 	<title>Genres</title>
-	<link>file://movies/genremovies.xml</link>
+	<link>https://raw.githubusercontent.com/woolyk/woolyk/master/plugin.video.wooly/xml/movies/genremovies.xml</link>
 	<thumbnail></thumbnail>
 	<summary>Movie Genres</summary>
 </dir>
 
 <dir>
 	<title>Collections</title>
-	<link>file://movies/collections.xml</link>
+	<link>https://raw.githubusercontent.com/woolyk/woolyk/master/plugin.video.wooly/xml/movies/collections.xml</link>
 	<summary>A Collection of Movies to keep you entertained for hours.</summary>
 </dir>
 

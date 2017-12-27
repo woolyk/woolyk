@@ -1,13 +1,13 @@
 <xml>
   <dir>
 	<title>TV Shows</title>
-	<link>file://tvshows/main.xml</link>
+	<link>https://raw.githubusercontent.com/woolyk/woolyk/master/plugin.video.wooly/xml/tvshows/main.xml</link>
 	<summary>TV Shows</summary>
   </dir>
 
   <dir>
 	<title>Movies</title>
-	<link>file://movies/movies.xml</link>
+	<link>https://raw.githubusercontent.com/woolyk/woolyk/master/plugin.video.wooly/xml/movies/movies.xml</link>
 	<summary>Movies Old and New</summary>
   </dir> 
 </xml>
