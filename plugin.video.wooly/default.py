@@ -21,7 +21,7 @@ import __builtin__
 # CONFIGURATION VARIABLES
 # -----------------------
 # change these to suit your addons
-root_xml_url = "http://wolfsbuild.mypi.co/woolykodi/main.xml"  # url of the root xml file
+root_xml_url = "https://raw.githubusercontent.com/woolyk/woolyk/master/plugin.video.wooly/xml/main.xml"  # url of the root xml file
 __builtin__.tvdb_api_key = "F5547E01CAB2E4CB"  # tvdb api key
 __builtin__.tmdb_api_key = "dcc3bce16961464ac054c3ad1cafee0d"  # tmdb api key
 __builtin__.trakt_client_id = "2cf3be31d0e46a14c20fed97af8158b1bc17de171806792b579cb878e513b16b"  # trakt client id
