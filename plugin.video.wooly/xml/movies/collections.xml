@@ -1,48 +1,111 @@
 <dir>
+	<title>Abbott and Costello</title>
+	<tmdb>list/43437</tmdb>
+	<thumbnail>https://image.tmdb.org/t/p/original/4pG9tpMOE5LAtNtKCISa89hrIZh.jpg</thumbnail>
+	<summary>Abbott and Costello Movies</summary>
+</dir>
+
+<dir>
 	<title>Aliens</title>
 	<tmdb>lists/43286</tmdb>
-	<thumbnail></thumbnail>
+	<thumbnail>https://image.tmdb.org/t/p/original/20X8dx7fv8DW74t6oedQi0HcPsY.jpg</thumbnail>
 	<summary>Alien movies</summary>
-</dir>
-
-<dir>
-	<title>DC Movies</title>
-	<tmdb>list/32942</tmdb>
-	<thumbnail></thumbnail>
-	<summary>All DC Movies</summary>
-</dir>
-
-<dir>
-	<title>James Bond</title>
-	<tmdb>collection/645</tmdb>
-	<thumbnail></thumbnail>
-	<summary>James Bond 007 Movies 1962-2015</summary>
-</dir>
-
-<dir>
-	<title>Star Wars</title>
-	<tmdb>collection/10</tmdb>
-	<thumbnail></thumbnail>
-	<summary>Star Wars Movie Collection</summary>
 </dir>
 
 <dir>
 	<title>Comedy</title>
 	<tmdb>list/43260</tmdb>
-	<thumbnail></thumbnail>
+	<thumbnail>https://image.tmdb.org/t/p/w533_and_h300_bestv2/wMPlmw0fM1B94XugcuaKGB96Vsd.jpg</thumbnail>
 	<summary>Movies to Lighten the mood</summary>
+</dir>
+
+<dir>
+	<title>Disney</title>
+	<tmdb>list/43432</tmdb>
+	<thumbnail>https://image.tmdb.org/t/p/original/l3t2A8UYavu6TWpAbxqgVFgbOLI.jpg</thumbnail>
+	<summary>Disney Animated Movies (1942 - Present)</summary>
 </dir>
 
 <dir>
 	<title>Fantasy</title>
 	<tmdb>list/43305</tmdb>
-	<thumbnail></thumbnail>
-	<summary>Fantasy Movies</summary>
+	<thumbnail>https://image.tmdb.org/t/p/w533_and_h300_bestv2/4qVMwmMs4TToddLb119BEShC55g.jpg</thumbnail>
+	<summary>Fantasy Movies.</summary>
 </dir>
 
 <dir>
 	<title>Horror</title>
 	<tmdb>list/43285</tmdb>
-	<thumbnail></thumbnail>
+	<thumbnail>https://image.tmdb.org/t/p/original/yDC77oA8mKIogX6Na7iQB3N2hL1.jpg</thumbnail>
 	<summary>Movies to make you Scream!</summary>
+</dir>
+
+<dir>
+	<title>James Bond</title>
+	<tmdb>list/43426</tmdb>
+	<thumbnail>https://image.tmdb.org/t/p/original/1TiAzvFkPkIZBQ74Sjsv8hNqTF7.jpg</thumbnail>
+	<summary>James Bond 007 Movies 1962-2015</summary>
+</dir>
+
+<dir>
+	<title>Jim Jefferies</title>
+	<tmdb>list/43580</tmdb>
+	<thumbnail>https://image.tmdb.org/t/p/w640/nUt41YMX6tHcyrHHlH6UMs2tZ9n.jpg</thumbnail>
+	<summary>Comedian Jim Jefferies.</summary>
+</dir>
+
+<dir>
+	<title>Mummy Movies</title>
+	<tmdb>list/43436</tmdb>
+	<thumbnail>https://image.tmdb.org/t/p/original/qedJJ2z9oBYKxxO4Pp8qAkfgPst.jpg</thumbnail>
+	<summary>Mummy Movies</summary>
+</dir>
+
+<dir>
+	<title>Pirate Movies</title>
+	<tmdb>list/43307</tmdb>
+	<thumbnail>https://image.tmdb.org/t/p/original/aHEDfOxeCWdBhchGwlUQvUOv5Tb.jpg</thumbnail>
+	<summary>Swashbuckling Movies on the high sea.</summary>
+</dir>
+
+<dir>
+	<title>Robin Williams</title>
+	<tmdb>list/43389</tmdb>
+	<thumbnail>https://image.tmdb.org/t/p/original/6Z8Cm60au3mZ9TvJs1OmQC5X339.jpg</thumbnail>
+	<summary>Robin Williams at his best in some great movies.</summary>
+</dir>
+
+<dir>
+	<title>Sherlock Holmes</title>
+	<link>http://wolfsbuild.mypi.co//woolykodi/movies/sherlock.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/original/yGonem68fJd0Jt2EgUhGFD2ww9o.jpg</thumbnail>
+	<summary>Sherlock Holmes Movies</summary>
+</dir>
+
+<dir>
+	<title>Spy Movies</title>
+	<tmdb>list/43391</tmdb>
+	<thumbnail>https://image.tmdb.org/t/p/original/hCeAHTwzoWjSeblnPnDWtoa3eiS.jpg</thumbnail>
+	<summary>Spy Movies through the ages</summary>
+</dir>
+
+<dir>
+	<title>Star Trek</title>
+	<tmdb>list/43617</tmdb>
+	<thumbnail>https://image.tmdb.org/t/p/original/3rdFDFKGspOJmRgXL85ZAcQmyOl.jpg</thumbnail>
+	<summary>Star Trek Movies.</summary>
+</dir>
+
+<dir>
+	<title>Star Wars</title>
+	<tmdb>list/43614</tmdb>
+	<thumbnail>https://image.tmdb.org/t/p/original/2St1LmNwTqFb7S3pe7eR6fOChAF.jpg</thumbnail>
+	<summary>Star Wars Movie Collection</summary>
+</dir>
+
+<dir>
+	<title>War Movies</title>
+	<tmdb>list/43383</tmdb>
+	<thumbnail>https://image.tmdb.org/t/p/original/ywvdgEJyhA7kEwYxV32Hq3kmD9W.jpg</thumbnail>
+	<summary>A selection of the greatest War Movies of all time.</summary>
 </dir>

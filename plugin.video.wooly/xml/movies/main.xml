@@ -1,15 +1,15 @@
 <xml>
 	<dir>
 		<title>Genres</title>
-		<link>https://raw.githubusercontent.com/woolyk/woolyk/master/plugin.video.wooly/xml/movies/genremovies.xml</link>
+		<link>file://movies/genremovies.xml</link>
 	</dir>
 	<dir>
 		<title>Years</title>
-		<link>https://raw.githubusercontent.com/woolyk/woolyk/master/plugin.video.wooly/xml/movies/yearsmovies.xml</link>
+		<link>file://movies/yearsmovies.xml</link>
 	</dir>
 	<dir>
 		<title>Collections</title>
-		<link>https://raw.githubusercontent.com/woolyk/woolyk/master/plugin.video.wooly/xml/movies/collections.xml</link>
+		<link>file://movies/collections.xml</link>
 	</dir>
 	<dir>
 		<title>Most Popular</title>
@@ -37,6 +37,6 @@
 	</dir>
 	<dir>
 		<title>TESTING</title>
-		<link>https://raw.githubusercontent.com/woolyk/woolyk/master/plugin.video.wooly/xml/collections.xml</link>
+		<link>file://collections.xml</link>
 	</dir>
 </xml>
